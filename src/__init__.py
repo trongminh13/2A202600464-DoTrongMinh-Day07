@@ -13,6 +13,7 @@ from .embeddings import (
     LocalEmbedder,
     MockEmbedder,
     OpenAIEmbedder,
+    LMStudioEmbedder,
     _mock_embed,
 )
 from .models import Document
@@ -30,6 +31,7 @@ __all__ = [
     "MockEmbedder",
     "LocalEmbedder",
     "OpenAIEmbedder",
+    "LMStudioEmbedder",
     "_mock_embed",
     "LOCAL_EMBEDDING_MODEL",
     "OPENAI_EMBEDDING_MODEL",

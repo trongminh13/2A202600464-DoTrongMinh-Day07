@@ -13,18 +13,18 @@ from src.embeddings import (
     OPENAI_EMBEDDING_MODEL,
     LocalEmbedder,
     OpenAIEmbedder,
+    LMStudioEmbedder,
     _mock_embed,
 )
 from src.models import Document
 from src.store import EmbeddingStore
 
 SAMPLE_FILES = [
-    "data/python_intro.txt",
-    "data/vector_store_notes.md",
-    "data/rag_system_design.md",
-    "data/customer_support_playbook.txt",
-    "data/chunking_experiment_report.md",
-    "data/vi_retrieval_notes.md",
+    "data/01_faq_hoc_vu.txt",
+    "data/02_quy_che_sinh_vien_ktx.txt",
+    "data/03_huong_dan_hoc_bong.txt",
+    "data/04_thuc_tap_khoa_luan_tot_nghiep.txt",
+    "data/05_thu_vien_va_dich_vu_ho_tro.txt",
 ]
 
 
@@ -94,6 +94,14 @@ def run_manual_demo(question: str | None = None, sample_files: list[str] | None 
         try:
             embedder = OpenAIEmbedder(model_name=os.getenv("OPENAI_EMBEDDING_MODEL", OPENAI_EMBEDDING_MODEL))
         except Exception:
+            embedder = _mock_embed
+    elif provider == "lmstudio":
+        try:
+            # Model có thể được đặt qua ENV hoặc dùng jina mặc định
+            model_name = os.getenv("LMSTUDIO_EMBEDDING_MODEL", "jina-embeddings-v5-text-nano-retrieval")
+            embedder = LMStudioEmbedder(model_name=model_name)
+        except Exception as e:
+            print(f"Fallback due to LMStudio exception: {e}")
             embedder = _mock_embed
     else:
         embedder = _mock_embed

@@ -1,0 +1,121 @@
+CÂU HỎI THƯỜNG GẶP VỀ HỌC VỤ VÀ ĐĂNG KÝ HỌC PHẦN
+Trường Đại học Bách Khoa Phương Nam (BKPN)
+Phòng Đào tạo – Cập nhật tháng 8/2024
+=======================================================================
+
+I. ĐĂNG KÝ HỌC PHẦN
+---------------------
+
+Q: Thời gian đăng ký học phần diễn ra khi nào?
+A: Đăng ký học phần được thực hiện theo từng học kỳ, thường vào cuối học kỳ trước theo lịch sau:
+   - Học kỳ 1 (tháng 9–1): Đăng ký trong tuần 15–17 của học kỳ 2 năm học trước (khoảng tháng 5–6).
+   - Học kỳ 2 (tháng 2–6): Đăng ký trong tuần 14–16 của học kỳ 1 (khoảng tháng 12–1).
+   - Học kỳ hè (tháng 7–8): Đăng ký vào tuần đầu tiên của tháng 6.
+   Lịch cụ thể được công bố trên Cổng thông tin sinh viên (sv.bkpn.edu.vn) và phòng Đào tạo ít nhất 3 tuần trước khi mở đăng ký.
+
+Q: Sinh viên đăng ký học phần ở đâu?
+A: Toàn bộ việc đăng ký học phần được thực hiện trực tuyến qua Cổng thông tin sinh viên tại sv.bkpn.edu.vn, mục "Đăng ký học phần". Sinh viên cần đăng nhập bằng mã số sinh viên (MSSV) và mật khẩu đã được cấp khi nhập học. Không thực hiện đăng ký trực tiếp tại phòng Đào tạo trừ các trường hợp đặc biệt có xác nhận của Khoa.
+
+Q: Mỗi học kỳ được đăng ký tối đa bao nhiêu tín chỉ?
+A: Số tín chỉ tối đa đăng ký mỗi học kỳ phụ thuộc vào điểm trung bình tích lũy (GPA) của học kỳ liền trước:
+   - GPA ≥ 3.6 (xuất sắc): Tối đa 25 tín chỉ
+   - GPA từ 3.2–3.59 (giỏi): Tối đa 23 tín chỉ
+   - GPA từ 2.5–3.19 (khá): Tối đa 20 tín chỉ
+   - GPA từ 2.0–2.49 (trung bình): Tối đa 17 tín chỉ
+   - GPA dưới 2.0 hoặc học kỳ đầu tiên: Tối đa 15 tín chỉ
+   Số tín chỉ tối thiểu mỗi học kỳ là 14 (trừ học kỳ cuối của chương trình học).
+
+Q: Điều kiện tiên quyết và học phần song hành là gì?
+A: Điều kiện tiên quyết (prerequisite) là học phần bắt buộc phải hoàn thành và đạt điểm D trở lên trước khi được phép đăng ký học phần liên quan. Ví dụ: "Giải tích 2" yêu cầu điều kiện tiên quyết là "Giải tích 1".
+   Học phần song hành (co-requisite) là học phần phải được đăng ký và học cùng lúc với học phần chính, ví dụ "Thí nghiệm Vật lý" phải học cùng kỳ với "Vật lý đại cương".
+   Hệ thống sẽ tự động kiểm tra và không cho phép đăng ký nếu vi phạm điều kiện.
+
+Q: Có thể hủy hoặc thêm học phần sau khi đã đăng ký không?
+A: Có. Có hai giai đoạn điều chỉnh:
+   - Tuần điều chỉnh (2 tuần đầu học kỳ): Sinh viên có thể hủy hoặc thêm học phần miễn phí, không ảnh hưởng đến học bạ. Thực hiện qua sv.bkpn.edu.vn.
+   - Rút học phần muộn (từ tuần 3 đến tuần 8): Chỉ được rút, không được thêm. Học phần rút sẽ ghi "W" (Withdrawn) vào bảng điểm nhưng không tính vào GPA. Có thể thực hiện tối đa 2 lần/học kỳ, mỗi lần tối đa 1 học phần.
+   Sau tuần 8, không được rút học phần. Nếu không thi hoặc bỏ học sẽ nhận điểm F.
+
+Q: Nếu đăng ký nhầm lớp hoặc lịch bị trùng thì xử lý thế nào?
+A: Hệ thống tự động phát hiện và không cho phép đăng ký hai học phần có lịch học trùng nhau. Nếu phát hiện trùng lịch sau khi đăng ký (do thay đổi thời khóa biểu sau đó), sinh viên liên hệ phòng Đào tạo trong tuần điều chỉnh để được xử lý thủ công. Trường hợp đăng ký nhầm lớp nhưng cùng học phần, có thể chuyển lớp trong tuần điều chỉnh nếu còn chỗ trống.
+
+Q: Học phần tự chọn và học phần bắt buộc khác nhau như thế nào?
+A: Học phần bắt buộc (compulsory) là những học phần sinh viên phải hoàn thành để đủ điều kiện tốt nghiệp, bao gồm khối kiến thức đại cương (Toán, Lý, Hóa...), kiến thức cơ sở ngành, và kiến thức chuyên ngành cốt lõi. Học phần tự chọn (elective) cho phép sinh viên lựa chọn theo sở thích và định hướng nghề nghiệp trong giới hạn số tín chỉ tự chọn của chương trình (thường 15–20 tín chỉ). Danh sách học phần tự chọn được công bố đầu mỗi năm học.
+
+II. BẢNG ĐIỂM VÀ HỌC LỰC
+--------------------------
+
+Q: Thang điểm của trường sử dụng là gì?
+A: Trường sử dụng thang điểm 10 cho điểm thành phần và điểm thi, sau đó quy đổi sang điểm chữ và điểm 4.0 theo bảng sau:
+   - 8.5 – 10.0 → A (4.0) – Xuất sắc
+   - 8.0 – 8.4  → B+ (3.5) – Giỏi
+   - 7.0 – 7.9  → B  (3.0) – Giỏi
+   - 6.5 – 6.9  → C+ (2.5) – Khá
+   - 5.5 – 6.4  → C  (2.0) – Khá
+   - 5.0 – 5.4  → D+ (1.5) – Trung bình
+   - 4.0 – 4.9  → D  (1.0) – Trung bình
+   - Dưới 4.0   → F  (0.0) – Không đạt
+   Điểm chữ W (Withdrawn), I (Incomplete) và P/NP (Pass/No Pass) không tính vào GPA.
+
+Q: Điểm trung bình tích lũy (GPA) được tính như thế nào?
+A: GPA tích lũy được tính theo công thức bình quân gia quyền:
+   GPA = Tổng (Điểm 4.0 × Số tín chỉ học phần) / Tổng số tín chỉ đã học
+   Trong đó chỉ tính các học phần đã có điểm A–F (không tính W, I, P/NP).
+   Nếu học lại một học phần đã trượt, điểm cao hơn sẽ được sử dụng để tính GPA, điểm F cũ vẫn hiển thị trong bảng điểm nhưng không tính vào GPA.
+
+Q: Khi nào sinh viên bị cảnh báo học vụ?
+A: Sinh viên bị cảnh báo học vụ trong các trường hợp:
+   - GPA học kỳ dưới 1.2 (học kỳ đầu tiên) hoặc dưới 1.4 (các học kỳ tiếp theo)
+   - GPA tích lũy dưới 1.6 sau 2 học kỳ đầu
+   - GPA tích lũy dưới 1.8 sau 3 học kỳ trở lên
+   - Số tín chỉ không đạt trong 1 học kỳ từ 50% trở lên
+   Cảnh báo lần 1: Thông báo và tư vấn học vụ bắt buộc. Cảnh báo lần 2 liên tiếp: Xem xét buộc thôi học nếu không cải thiện sau 1 học kỳ tiếp theo.
+
+Q: Điều kiện để được xét tốt nghiệp là gì?
+A: Sinh viên được xét tốt nghiệp khi đáp ứng đủ các điều kiện:
+   1. Hoàn thành toàn bộ số tín chỉ theo khung chương trình (thường 140–150 tín chỉ tùy ngành)
+   2. GPA tích lũy ≥ 2.0
+   3. Điểm rèn luyện tích lũy ≥ 50/100
+   4. Hoàn thành chứng chỉ ngoại ngữ (TOEIC ≥ 450 hoặc tương đương)
+   5. Hoàn thành chứng chỉ giáo dục quốc phòng và giáo dục thể chất
+   6. Không có bất kỳ hình thức kỷ luật nào đang còn hiệu lực
+   7. Hoàn thành nghĩa vụ tài chính với nhà trường (học phí, lệ phí)
+
+III. THI CỬ
+-----------
+
+Q: Cấu trúc điểm một học phần thông thường là gì?
+A: Cấu trúc điểm phụ thuộc vào từng học phần và giảng viên, nhưng phổ biến nhất là:
+   - Chuyên cần và tham gia lớp: 10%
+   - Bài tập / kiểm tra thường xuyên: 20%
+   - Bài tập lớn / thực hành / tiểu luận giữa kỳ: 20%
+   - Thi giữa kỳ: 20%
+   - Thi cuối kỳ: 30%
+   Đề cương chi tiết (syllabus) của từng học phần sẽ nêu rõ cấu trúc điểm. Sinh viên phải đạt tối thiểu 4.0/10 ở bài thi cuối kỳ mới được tính điểm tổng kết.
+
+Q: Quy định về vắng thi và thi lại như thế nào?
+A: Sinh viên vắng thi không có lý do chính đáng nhận điểm 0 cho bài thi đó. Nếu vắng thi có lý do chính đáng (ốm đau có giấy bác sĩ, tang gia, tai nạn), phải nộp đơn xin hoãn thi kèm minh chứng lên phòng Đào tạo trong vòng 5 ngày làm việc sau ngày thi. Nếu được chấp thuận, sinh viên được dự thi bổ sung vào kỳ thi phụ của học kỳ đó.
+   Sinh viên có điểm tổng kết học phần dưới 4.0 (điểm F) được phép thi lại 1 lần trong kỳ thi phụ. Nếu vẫn dưới 4.0, phải đăng ký học lại học phần đó.
+
+Q: Làm thế nào để phúc khảo bài thi?
+A: Sinh viên có thể nộp đơn phúc khảo trong vòng 10 ngày kể từ ngày công bố điểm chính thức. Đơn nộp tại phòng Đào tạo hoặc qua email daotao@bkpn.edu.vn kèm lý do cụ thể. Lệ phí phúc khảo: 50,000 VNĐ/học phần (hoàn lại nếu điểm thay đổi). Kết quả phúc khảo có hiệu lực cuối cùng và không tiếp tục khiếu nại tiếp.
+
+IV. HỌC PHÍ
+-----------
+
+Q: Học phí được nộp như thế nào và khi nào?
+A: Học phí được tính theo tín chỉ với mức 450,000 VNĐ/tín chỉ (năm học 2024–2025). Thời hạn nộp học phí là trước khi học kỳ bắt đầu 1 tuần. Có thể nộp qua:
+   - Chuyển khoản ngân hàng (nội dung: MSSV + tên sinh viên)
+   - Cổng thanh toán trực tuyến trên sv.bkpn.edu.vn
+   - Nộp trực tiếp tại phòng Tài vụ (giờ hành chính)
+   Sinh viên chưa nộp học phí sẽ bị khóa tài khoản đăng ký học phần và không được dự thi.
+
+Q: Có các chính sách miễn giảm học phí không?
+A: Có các diện được miễn/giảm học phí theo quy định nhà nước và trường:
+   - Miễn 100%: Sinh viên thuộc hộ nghèo, người khuyết tật nặng, con thương binh liệt sĩ.
+   - Giảm 70%: Sinh viên thuộc hộ cận nghèo.
+   - Giảm 30%: Sinh viên đạt học bổng khuyến khích học tập loại xuất sắc (GPA ≥ 3.6).
+   Hồ sơ đề nghị miễn giảm nộp đầu mỗi năm học tại phòng Công tác sinh viên, hạn chót ngày 30/9 hàng năm.
+
+Liên hệ phòng Đào tạo: daotao@bkpn.edu.vn | ĐT: (028) 3865-xxxx | P.101, Nhà A1
+Giờ làm việc: 7:30–11:30 và 13:30–17:00, Thứ Hai–Thứ Sáu

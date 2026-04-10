@@ -50,11 +50,11 @@
 
 | # | Tên tài liệu | Nguồn | Số ký tự | Metadata đã gán |
 |---|--------------|-------|----------|-----------------|
-| 1 | customer_support_playbook.txt | data/ | 1290 | source: ..., extension: .txt |
-| 2 | python_intro.txt | data/ | 510 | source: ..., extension: .txt |
-| 3 | vector_store_notes.md | data/ | 1000 | source: ..., extension: .md |
-| 4 | rag_system_design.md | data/ | 1489 | source: ..., extension: .md |
-| 5 | chunking_experiment_report.md | data/ | 1792 | source: ..., extension: .md |
+| 1 | 01_faq_hoc_vu.txt | data/ | 10478 | source: ..., extension: .txt |
+| 2 | 02_quy_che_sinh_vien_ktx.txt | data/ | 9063 | source: ..., extension: .txt |
+| 3 | 03_huong_dan_hoc_bong.txt | data/ | 8460 | source: ..., extension: .txt |
+| 4 | 04_thuc_tap_khoa_luan_tot_nghiep.txt | data/ | 9870 | source: ..., extension: .txt |
+| 5 | 05_thu_vien_va_dich_vu_ho_tro.txt | data/ | 10443 | source: ..., extension: .txt |
 
 ### Metadata Schema
 

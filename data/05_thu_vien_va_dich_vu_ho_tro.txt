@@ -1,0 +1,200 @@
+HƯỚNG DẪN SỬ DỤNG THƯ VIỆN, PHÒNG MÁY TÍNH
+VÀ CÁC DỊCH VỤ HỖ TRỢ HỌC TẬP
+Trường Đại học Bách Khoa Phương Nam (BKPN)
+Trung tâm Học liệu và Công nghệ Thông tin | Cập nhật 08/2024
+=======================================================================
+
+I. THƯ VIỆN TRUNG TÂM BKPN
+
+1.1. Thông tin cơ bản
+
+Địa điểm: Tòa nhà Thư viện, khu A – Cơ sở chính 268 Lý Thường Kiệt, Q.10, TP.HCM
+Giờ mở cửa:
+- Thứ Hai–Thứ Sáu: 7:00–21:00
+- Thứ Bảy: 7:30–17:00
+- Chủ nhật và ngày lễ: Đóng cửa (trừ giai đoạn thi có thể mở thêm theo thông báo)
+
+Quy mô: Thư viện có sức chứa 800 chỗ ngồi, hơn 150,000 đầu sách, 400,000 tài liệu điện tử và 80 máy tính tra cứu.
+
+1.2. Thẻ thư viện và quyền truy cập
+
+Thẻ thư viện được tích hợp vào thẻ sinh viên. Sinh viên kích hoạt thẻ thư viện ngay trong tuần đầu nhập học tại quầy lễ tân thư viện, xuất trình thẻ sinh viên còn hiệu lực.
+
+Quyền mượn sách theo đối tượng:
+- Sinh viên đại học: Mượn tối đa 5 cuốn sách/lần, thời hạn 14 ngày, gia hạn 1 lần (thêm 7 ngày)
+- Sinh viên đang làm khóa luận: Mượn tối đa 8 cuốn, thời hạn 21 ngày
+- Học viên cao học: Mượn tối đa 10 cuốn, thời hạn 30 ngày
+
+Phí trễ hạn: 2,000 VNĐ/cuốn/ngày trễ. Mất sách hoặc hư hỏng nặng: Đền bù 3 lần giá bìa.
+
+1.3. Khu vực và dịch vụ trong thư viện
+
+Tầng 1 – Khu tra cứu và lưu thông:
+- Quầy mượn/trả sách (không cần trợ giúp: tự phục vụ qua máy kiosk)
+- Máy tính tra cứu catalog (30 máy)
+- Khu đọc sách báo, tạp chí khoa học mới nhất
+- Phòng đọc mở (không mang túi xách, có tủ khóa cá nhân bên ngoài)
+
+Tầng 2 – Khu học nhóm và làm việc yên tĩnh:
+- 20 phòng học nhóm (2–8 người), đặt trước online tại lib.bkpn.edu.vn
+- Khu im lặng tuyệt đối (cấm nói chuyện, điện thoại phải tắt tiếng)
+- 20 ổ cắm điện và cổng USB tại mỗi bàn đọc
+
+Tầng 3 – Khu tài nguyên số và media:
+- 40 máy tính truy cập tài nguyên số
+- Phòng xem phim tài liệu, nghe âm thanh (đặt trước)
+- Máy scan tự phục vụ (miễn phí, tối đa 50 trang/lần)
+- Máy in (có phí: 500 VNĐ/trang đen trắng A4, 2,000 VNĐ/trang màu A4)
+
+1.4. Tài nguyên số và cơ sở dữ liệu trực tuyến
+
+Sinh viên BKPN được truy cập miễn phí các cơ sở dữ liệu học thuật quốc tế:
+- IEEE Xplore: Tài liệu kỹ thuật điện – điện tử – CNTT
+- ScienceDirect (Elsevier): Khoa học kỹ thuật, y sinh, kinh tế
+- Springer Link: Sách và tạp chí khoa học đa ngành
+- Web of Science: Chỉ mục tạp chí khoa học uy tín toàn cầu
+- ProQuest: Luận văn, luận án quốc tế
+- VNU-LIC (Liên hợp thư viện Việt Nam): Tài liệu tiếng Việt
+
+Cách truy cập: Đăng nhập tại lib.bkpn.edu.vn bằng tài khoản sinh viên. Truy cập từ ngoài campus cần dùng VPN của trường (vpn.bkpn.edu.vn, cài đặt theo hướng dẫn tại Phòng máy tính).
+
+1.5. Dịch vụ yêu cầu bổ sung tài liệu
+
+Nếu thư viện chưa có tài liệu sinh viên cần, có thể:
+- Đề xuất mua sách: Điền form tại lib.bkpn.edu.vn/suggest. Xét duyệt trong 2 tuần.
+- Mượn liên thư viện: Thư viện sẽ mượn hộ từ các thư viện đối tác trong thành phố. Thời gian xử lý: 3–5 ngày làm việc.
+- Yêu cầu tài liệu quốc tế (ILL): Với các bài báo, chương sách từ nước ngoài, điền form yêu cầu. Miễn phí, xử lý trong 5–10 ngày.
+
+---
+
+II. PHÒNG MÁY TÍNH VÀ HẠ TẦNG CÔNG NGHỆ
+
+2.1. Hệ thống phòng máy tính
+
+Trường có 12 phòng máy tính với tổng 500 máy, phân bố tại Nhà B2 và B3:
+- Phòng B2.01–B2.06: Phòng thực hành chuyên dụng (dành cho các lớp có lịch thực hành)
+- Phòng B3.01–B3.06: Phòng máy tính tự do (open lab) – sinh viên sử dụng ngoài giờ học
+
+Lịch mở cửa Open Lab:
+- Thứ Hai–Thứ Sáu: 7:00–21:30
+- Thứ Bảy: 7:30–17:30
+- Chủ nhật: 8:00–12:00
+
+Quy định sử dụng phòng máy:
+- Đăng nhập bằng tài khoản sinh viên (username: MSSV, mật khẩu ban đầu: ngày sinh DDMMYYYY)
+- Dữ liệu lưu trên máy bị xóa sau mỗi phiên. Lưu công việc lên ổ U hoặc Google Drive.
+- Không mang thức ăn, đồ uống vào phòng máy.
+- Không cài đặt phần mềm cá nhân. Yêu cầu cài phần mềm chuyên ngành gửi về it-lab@bkpn.edu.vn.
+- Không truy cập mạng xã hội, game, streaming video trong giờ thực hành có giảng viên.
+
+2.2. Phần mềm có sẵn trên máy tính thực hành
+
+Các phần mềm được cài sẵn cho tất cả máy:
+- Microsoft Office 365 (Word, Excel, PowerPoint, Visio)
+- Google Chrome, Mozilla Firefox
+- Visual Studio Code, IntelliJ IDEA Community
+- Python 3.x, Java JDK, GCC compiler
+- AutoCAD (phòng B2.03–B2.04)
+- MATLAB, Simulink (phòng B2.05–B2.06)
+- Adobe Photoshop, Illustrator (phòng B3.03)
+
+2.3. Mạng WiFi campus
+
+Tên WiFi: BKPN-Student (dành cho sinh viên), BKPN-Staff (cán bộ giảng viên)
+Mật khẩu: Không cần mật khẩu – đăng nhập bằng tài khoản sinh viên qua captive portal.
+Tốc độ: Tối đa 100 Mbps (chia sẻ). Ưu tiên băng thông cho hoạt động học thuật.
+Vùng phủ sóng: Toàn bộ tòa nhà giảng đường, thư viện, ký túc xá.
+
+2.4. Microsoft 365 miễn phí cho sinh viên
+
+Mỗi sinh viên được cấp tài khoản Microsoft 365 Education miễn phí:
+- Email: MSSV@student.bkpn.edu.vn (dung lượng không giới hạn)
+- OneDrive: 1 TB lưu trữ đám mây
+- Office Online và ứng dụng desktop trên 5 thiết bị
+- Microsoft Teams cho học trực tuyến và cộng tác nhóm
+
+Kích hoạt tại: microsoft.bkpn.edu.vn (sau khi nhập học 1 tuần)
+
+---
+
+III. CÁC DỊCH VỤ HỖ TRỢ HỌC TẬP KHÁC
+
+3.1. Trung tâm Hỗ trợ học tập (Academic Support Center)
+
+Địa điểm: P.103, Nhà B1 | Email: learningsupport@bkpn.edu.vn
+
+Dịch vụ tư vấn học tập 1-1:
+Sinh viên gặp khó khăn với học phần cụ thể có thể đặt lịch gặp cố vấn học tập (sinh viên giỏi được tuyển chọn và đào tạo, hoặc giảng viên tình nguyện). Miễn phí. Đặt lịch online tại learningsupport.bkpn.edu.vn.
+
+Chương trình học nhóm có hỗ trợ (Supplemental Instruction – SI):
+Dành cho các học phần có tỷ lệ không đạt cao (Giải tích 1, Vật lý đại cương, Lập trình...). Mỗi nhóm SI có 1 sinh viên "SI Leader" (đã học qua môn với điểm A/B+) tổ chức buổi ôn tập 2 lần/tuần ngoài giờ học chính. Tham gia hoàn toàn tự nguyện và miễn phí.
+
+Workshop kỹ năng học tập:
+Tổ chức định kỳ (2 lần/tháng) về các chủ đề:
+- Kỹ thuật ghi chú hiệu quả (Cornell Note-taking, Mind-map)
+- Quản lý thời gian và chống trì hoãn
+- Kỹ thuật đọc và tóm tắt tài liệu học thuật
+- Viết báo cáo và làm trích dẫn khoa học
+Lịch workshop cập nhật tại fanpage BKPN và email sinh viên.
+
+3.2. Dịch vụ tư vấn tâm lý
+
+Trung tâm Sức khỏe Tâm thần Sinh viên (Student Wellness Center)
+Địa điểm: P.211, Nhà A2 | ĐT: (028) 3865-wwww
+
+Dịch vụ:
+- Tư vấn cá nhân: Gặp gỡ 1-1 với chuyên gia tâm lý, miễn phí, bảo mật. Tối đa 8 buổi/năm học.
+- Hỗ trợ khủng hoảng: Tiếp nhận 24/7 qua đường dây hỗ trợ 1800-xxxx (miễn cước).
+- Nhóm hỗ trợ: Nhóm dành cho sinh viên lo âu thi cử, sinh viên xa nhà, sinh viên LGBTQ+...
+- Workshop sức khỏe tâm thần: Quản lý căng thẳng, thiền chánh niệm, cân bằng cuộc sống.
+
+Đặt lịch: Trực tiếp tại phòng hoặc qua wellness.bkpn.edu.vn. Thông tin hoàn toàn bảo mật.
+
+3.3. Trung tâm Ngoại ngữ
+
+Địa điểm: Nhà C1 | Email: language@bkpn.edu.vn
+
+Phòng Tự học Ngoại ngữ (Language Self-Access Center):
+- Mở cửa Thứ Hai–Thứ Bảy: 8:00–20:00
+- Có máy tính cài phần mềm luyện TOEIC/IELTS, headphone, giáo trình ngoại ngữ
+- Phòng luyện phát âm có cách âm (4 phòng nhỏ, đặt trước)
+
+Luyện thi TOEIC miễn phí (cho sinh viên chưa đạt chuẩn):
+Lớp luyện thi TOEIC mở mỗi học kỳ (3 tháng, 2 buổi/tuần). Ưu tiên sinh viên năm 3–4 chưa có chứng chỉ. Đăng ký tại phòng Đào tạo đầu mỗi học kỳ.
+
+Thi TOEIC tại trường:
+BKPN là trung tâm khảo thí TOEIC ủy quyền. Thi định kỳ mỗi tháng 1 lần. Đăng ký và tra cứu lịch thi tại language.bkpn.edu.vn/toeic.
+
+3.4. Phòng gym và cơ sở thể thao
+
+Phòng gym: Nhà D1, tầng 1
+- Giờ mở cửa: 6:00–21:00 (Thứ Hai–Thứ Bảy), 7:00–12:00 (Chủ Nhật)
+- Phí: Miễn phí cho sinh viên BKPN (xuất trình thẻ sinh viên)
+- Trang thiết bị: Máy chạy bộ, xe đạp, tạ, dụng cụ tập tổng hợp
+
+Sân thể thao ngoài trời: Bóng đá, bóng rổ, cầu lông, bóng chuyền
+- Đặt sân qua app BKPN Sport hoặc tại P.001, Nhà D1
+- Sinh viên: Miễn phí trong giờ thường; 30,000 VNĐ/giờ buổi tối có đèn
+
+---
+
+IV. ỨNG DỤNG VÀ CỔNG THÔNG TIN SINH VIÊN
+
+Cổng thông tin chính: sv.bkpn.edu.vn
+- Xem lịch học, thời khóa biểu
+- Đăng ký học phần, xem kết quả thi
+- Nộp đơn từ xa (vắng học, hoãn thi, xin cấp giấy tờ...)
+- Thanh toán học phí
+
+App di động BKPN Student (iOS và Android):
+- Thông báo lịch học, hủy lớp, điểm mới
+- Chat với phòng Đào tạo, Công tác sinh viên
+- Quét QR điểm danh trong lớp học
+- Tra cứu thư viện, đặt phòng học nhóm
+
+Hệ thống học trực tuyến LMS: lms.bkpn.edu.vn (Moodle)
+- Tài liệu học tập, bài giảng ghi âm/video
+- Nộp bài tập, kiểm tra trực tuyến
+- Diễn đàn lớp học, thông báo từ giảng viên
+
+Hỗ trợ kỹ thuật tài khoản sinh viên: helpdesk.bkpn.edu.vn | ext. 9999
